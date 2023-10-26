@@ -21,7 +21,7 @@ const about = () => {
       <main className='flex w-full flex-col items-center justify-center dark:text-light '>
         <Layout className='pt-8'>
         <AnimatedText text="Crafting Digital Experiences: Full-Stack Developer's Showcase" className='mb-16 lg:!text-5xl sm:!text-2xl xl:!text-5xl md:!text-4xl sm:mb-8' />
-        <div className='grid w-full grid-cols-8 gap-16 md:order-2 text-dark dark:text-light sm:gap-8 md:px-12'>
+        <div className='grid w-full grid-cols-8 gap-16 md:order-2 text-dark dark:text-light sm:gap-8 md:px-6'>
           <div className='col-span-4 flex flex-col items-start justify-start xl:col-span-4 md:col-span-8 '>
           <h2 className='mb-4 text-sm font-bold uppercase text-dark/75 dark:text-light/75'>About me</h2>
 
