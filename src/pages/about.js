@@ -26,12 +26,12 @@ const about = () => {
           <h2 className='mb-4 text-sm font-bold uppercase text-dark/75 dark:text-light/75'>About me</h2>
 
             <p className='font-medium'> 
-            Hi, I'm Suyash singh chauhan, a fourth-year college student passionate about full-stack development, and this portfolio is the culmination of my journey so far. As a tech enthusiast, I've navigated through a diverse range of programming languages, frameworks, and tools to build interactive and innovative web applications. I thrive in the dynamic world of web development.
+            Hi, I&apos;m Suyash singh chauhan, a fourth-year college student passionate about full-stack development, and this portfolio is the culmination of my journey so far. As a tech enthusiast, I&apos;ve navigated through a diverse range of programming languages, frameworks, and tools to build interactive and innovative web applications. I thrive in the dynamic world of web development.
             </p>
-            <p className='font-medium my-4'> Within these digital walls, you'll find a curated collection of projects that showcase my skills and creativity. From responsive websites to robust web applications, each project represents a unique problem-solving journey. As a student in the final stages of my academic journey, I'm excited to bring my skills and enthusiasm to the professional world of full-stack development.
+            <p className='font-medium my-4'> Within these digital walls, you&apos;ll find a curated collection of projects that showcase my skills and creativity. From responsive websites to robust web applications, each project represents a unique problem-solving journey. As a student in the final stages of my academic journey, I&apos;m excited to bring my skills and enthusiasm to the professional world of full-stack development.
             </p>
             <p className='font-medium mb-8'>
-            So, why explore my portfolio? Because it's not just about the code, It's about my commitment to continuous learning and my dedication to creating user-friendly and scalable solutions Dive in and discover how I can contribute to your team's success, and let's connect to discuss potential collaborations. Your next full-stack developer is just a click away."  
+            So, why explore my portfolio? Because it&apos;s not just about the code, It&apos;s about my commitment to continuous learning and my dedication to creating user-friendly and scalable solutions Dive in and discover how I can contribute to your team&apos;s success, and let&apos;s connect to discuss potential collaborations. Your next full-stack developer is just a click away.&quot  
             </p>
           </div>
          
