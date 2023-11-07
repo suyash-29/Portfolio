@@ -91,10 +91,10 @@ const projects = () => {
       <main className='w-full  flex flex-col items-center justify-center'>
         <Layout className='pt-16'>
           <AnimatedText text='Discover My Showcase of Creative Endeavors'
-          className='mb-20 lg:!text-7xl sm:mb-8 md:!text-5xl sm:!text-4xl'
+          className='mb-20 lg:!text-7xl sm:mb-8 md:!text-5xl sm:!text-3xl'
            />
           <div className='grid grid-col-12 gap-24 gap-y-32 lg:gap-x-16 md:gap-x-8 xl:gap-x-20 sm:gap-x-8 md:gap-y-20 '>
-            <div className='col-span-12'>
+            <div className='col-span-12 sm:col-span-10'>
               <FeaturedProjects 
               title="Full stack(dashboard)"
               img={dashboard}
@@ -106,7 +106,7 @@ const projects = () => {
               type="Featured Project"
               />
             </div>
-            <div className='col-span-12'>
+            <div className='col-span-12 sm:col-span-10'>
               <FeaturedProjects 
               title="Full stack (Store)"
               img={store}
@@ -118,7 +118,7 @@ const projects = () => {
               type="Featured Project"
               />
             </div>
-            <div className='col-span-6 sm:col-span-12'>
+            <div className='col-span-6 sm:col-span-10'>
               <Project 
               title="WanderNest"
               img={WanderNest}
@@ -129,7 +129,7 @@ const projects = () => {
               type="Project"
               />
             </div>
-            <div className='col-span-6 sm:col-span-12'>
+            <div className='col-span-6 sm:col-span-10'>
               <Project 
               title=" GYM Exercises"
               img={gym}
@@ -140,8 +140,8 @@ const projects = () => {
               type="Project"
               /></div>
             
-            <div className='col-span-6 sm:col-span-12'></div>
-            <div className='col-span-6 sm:col-span-12'></div>
+            <div className='col-span-6 sm:col-span-10'></div>
+            <div className='col-span-6 sm:col-span-10'></div>
 
           </div>
         </Layout>
