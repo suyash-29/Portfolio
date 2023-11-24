@@ -19,7 +19,7 @@ export default function Home() {
       </Head>
       <Transition />
       <main className='flex items-center text-dark w-full min-h-screen dark:text-light'>
-        <Layout className='lg:pt-8 md:pt-4 sm:pt-4 pt-0  '>
+        <Layout className='lg:pt-8 md:pt-4 sm:pt-4 pt-0 3xl:p-16 '>
           <div className='flex items-center justify-between w-full md:flex-col'>
             <div className='w-1/2 md:w-3/5 lg:w-1/2'>
               <Image src={profilePic} alt="Image" className='w-full h-auto md:inline-block md:w-full' 

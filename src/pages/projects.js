@@ -89,7 +89,7 @@ const projects = () => {
       </Head>
       <Transition  />
       <main className='w-full  flex flex-col items-center justify-center'>
-        <Layout className='pt-16'>
+        <Layout className='pt-16 3xl:p-16'>
           <AnimatedText text='Discover My Showcase of Creative Endeavors'
           className='mb-20 lg:!text-7xl sm:mb-8 md:!text-5xl sm:!text-3xl'
            />
