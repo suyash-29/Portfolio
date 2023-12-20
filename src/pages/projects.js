@@ -67,9 +67,9 @@ const Project = ({type , title , summary , img , link , github , text}) => {
           </Link>
           <p className='font-medium text-dark my-2 dark:text-light sm:text-sm'>{summary}</p>
           <div className='w-full mt-2 flex items-center justify-between '>
-           <Link href={github} target='_blank'  className='hover:scale-110 w-6 dark:bg-light rounded-full  '><GithubIcon /></Link>
+           <Link href={github} target='_blank'  className='hover:scale-110 w-6 dark:bg-light rounded-full'><GithubIcon /></Link>
             
-            <Link href={link} target='_blank' className=' hover:scale-110 ml-4 rounded bg-dark text-light p-2  font-semibold text-lg  dark:bg-light dark:text-dark sm:text-sm sm:p-2  '>{text}</Link>
+            <Link href={link} target='_blank' className=' hover:scale-110 ml-4 rounded bg-dark text-light p-2  font-semibold text-lg  dark:bg-light dark:text-dark sm:text-sm sm:p-2'>{text}</Link>
             
           </div>
         </div>
@@ -131,7 +131,7 @@ const projects = () => {
             </div>
             <div className='col-span-6 sm:col-span-10'>
               <Project 
-              title=" GYM Exercises"
+              title="GYM Exercises"
               img={gym}
               summary="Incorporating React JS, Node JS, Material UI, Framer Motion, and Rapid API, I've created an exercise application. It enables users to search for exercises based on filters"
               link='https://www.youtube.com/watch?v=Q00wQphT2v0'
