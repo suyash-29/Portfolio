@@ -125,7 +125,7 @@ const projects = () => {
               summary="Utilizing React JS, Next JS, MongoDB, Tailwind CSS, and Prisma, I've designed a user-friendly website for booking vacation homes in various locations.(for more please read ReadME file on github) "
               link='https://www.youtube.com/watch?v=lJRM428MdTU'
               text="Demo video"
-              github='https://github.com/suyash-29/WanderNest'
+              github='https://github.com/suyash-29/WanderNest'    
               type="Project"
               />
             </div>

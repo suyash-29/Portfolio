@@ -10,7 +10,7 @@ import lightBulb from '../../public/images/svgs/lightbulb.svg'
 import Transition from '@/components/Transition'
 
 
-export default function Home() {
+export default function Home(){
   return (
     <>
       <Head>
@@ -44,7 +44,7 @@ export default function Home() {
             </div>
           </div>
         </Layout> 
-        <HireMe />
+        
         <div className='absolute right-8 bottom-8 inline-block w-12 md:hidden'>
           <Image src={lightBulb} alt="image" className='w-full h-fullm' />
         </div>
